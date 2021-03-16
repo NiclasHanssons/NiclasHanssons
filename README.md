@@ -8,5 +8,6 @@ NiclasHanssons/NiclasHanssons is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 Detta kallas för git markdown.
 https://guides.github.com/features/mastering-markdown/
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 # används för att ändra storlek.
 --->
